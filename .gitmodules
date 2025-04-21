@@ -1,0 +1,3 @@
+[submodule "uvvm"]
+	path = uvvm
+	url = git@github.com:UVVM/UVVM.git
