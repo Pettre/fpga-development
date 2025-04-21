@@ -1,3 +1,6 @@
 [submodule "uvvm"]
 	path = uvvm
 	url = git@github.com:UVVM/UVVM.git
+[submodule "vunit"]
+	path = vunit
+	url = git@github.com:VUnit/vunit.git
